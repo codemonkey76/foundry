@@ -3,7 +3,7 @@
     <nav class="absolute transparent">
         <div class="nav-bar">
             <div class="module left">
-                <a href="index.html">
+                <a href="/">
                     <img class="logo logo-light" alt="Foundry" src="img/agency-logo-light.png" />
                     <img class="logo logo-dark" alt="Foundry" src="img/agency-logo-dark.png" />
                 </a>
@@ -24,32 +24,32 @@
                 </a>
                 <ul class="mb40 mb-xs-24">
                     <li class="fade-on-hover">
-                        <a href="#top" class="inner-link">
+                        <a href="/" class="inner-link">
                             <h5 class="uppercase mb8">Home</h5>
                         </a>
                     </li>
                     <li class="fade-on-hover">
-                        <a href="#about" class="inner-link">
+                        <a href="/about" class="inner-link">
                             <h5 class="uppercase mb8">About</h5>
                         </a>
                     </li>
                     <li class="fade-on-hover">
-                        <a href="#work" class="inner-link">
+                        <a href="/work" class="inner-link">
                             <h5 class="uppercase mb8">Work</h5>
                         </a>
                     </li>
                     <li class="fade-on-hover">
-                        <a href="#clients" class="inner-link">
+                        <a href="/clients" class="inner-link">
                             <h5 class="uppercase mb8">Clients</h5>
                         </a>
                     </li>
                     <li class="fade-on-hover">
-                        <a href="#blog" class="inner-link">
+                        <a href="/blog" class="inner-link">
                             <h5 class="uppercase mb8">News</h5>
                         </a>
                     </li>
                     <li class="fade-on-hover">
-                        <a href="#contact" class="inner-link">
+                        <a href="/contact" class="inner-link">
                             <h5 class="uppercase mb8">Contact</h5>
                         </a>
                     </li>
