@@ -4,25 +4,25 @@
     <meta charset="utf-8">
     <title>Foundry Multi-purpose HTML Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <x-css-links />
+    <x-css-links/>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
-
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300,400,600,700' rel='stylesheet' type='text/css'>
 </head>
 <body class="scroll-assist">
-<x-topnav class="bg-dark"/>
+<x-topnav class="absolute transparent"/>
 <div class="main-container">
-    <x-concepts.slides/>
-    <x-concepts.section1/>
-    <x-concepts.section2/>
-    <x-concepts.section3/>
-    <x-concepts.testimonials/>
-    <x-concepts.tabbed-section/>
-    <x-concepts.video-section/>
-    <x-concepts.tiled-section/>
-    <x-concepts.section4/>
+    <x-image-video-section/>
+    <x-quote-section/>
+    <x-social-section/>
+    <x-heading-section/>
+
+    <x-travel1/>
+    <x-travel2/>
+    <x-travel3/>
+    <x-book-section/>
+    <x-subscribe/>
     <x-footer/>
 </div>
-<x-concepts.modal/>
 <x-js-links/>
 </body>
 </html>

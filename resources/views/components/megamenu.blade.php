@@ -7,84 +7,112 @@
             <li>
                 <ul>
                     <li>
-                        <span class="title">Concepts</span>
+                        @if (Request::path()==='/')
+                            <span class="title">Concepts</span>
+                        @else
+                            <a href="/">Concepts</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-adventure.html">Adventure Travel</a>
+                        @if (Request::path()==='adventure-travel')
+                            <span class="title">Adventure Travel</span>
+                        @else
+                            <a href="/adventure-travel">Adventure Travel</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-agency.html">Agency</a>
+                        @if (Request::path()==='agency')
+                            <span class="title">Agency</span>
+                        @else
+                            <a href="/agency">Agency</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-agency-2.html">Agency 2</a>
+                        @if (Request::path()==='agency-2')
+                            <span class="title">Agency 2</span>
+                        @else
+                            <a href="/agency-2">Agency 2</a>
+                        @endif
                         <span class="label">New!</span>
                     </li>
                     <li>
-                        <a href="home-app-landing.html">App Landing</a>
+                        @if (Request::path()==='app-landing')
+                            <span class="title">App Landing</span>
+                        @else
+                            <a href="/app-landing">App Landing</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-app-landing-2.html">App Landing 2</a>
+                        @if (Request::path()==='app-landing-2')
+                            <span class="title">App Landing 2</span>
+                        @else
+                            <a href="/app-landing-2">App Landing 2</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-capital-firm.html">Capital Firm</a>
+                        @if (Request::path()==='capital-firm')
+                            <span class="title">Capital Firm</span>
+                        @else
+                            <a href="/capital-firm">Capital Firm</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="home-fashion.html">Fashion</a>
+                        <a href="/fashion">Fashion</a>
                     </li>
                     <li>
-                        <a href="home-fitness.html">Fitness</a>
+                        <a href="/fitness">Fitness</a>
                     </li>
                     <li>
-                        <a href="home-restaurant.html">Restaurant</a>
+                        <a href="/restaurant">Restaurant</a>
                     </li>
                     <li>
-                        <a href="home-music.html">Music</a>
+                        <a href="/music">Music</a>
                     </li>
                     <li>
-                        <a href="home-event.html">Event / Seminar</a>
+                        <a href="/event">Event / Seminar</a>
                     </li>
                     <li>
-                        <a href="home-architecture.html">Architecture</a>
+                        <a href="/architecture">Architecture</a>
                     </li>
                 </ul>
             </li>
             <li>
                 <ul>
                     <li>
-                        <a href="home-photography.html">Photography</a>
+                        <a href="/photography">Photography</a>
                     </li>
                     <li>
-                        <a href="home-photography-2.html">Ken Burns</a>
+                        <a href="/photography-2">Ken Burns</a>
                     </li>
                     <li>
-                        <a href="home-personal-portfolio.html">Portfolio</a>
+                        <a href="/portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a href="home-property.html">Property Listing</a>
+                        <a href="/property">Property Listing</a>
                     </li>
                     <li>
-                        <a href="home-resume.html">Resumé</a>
+                        <a href="/resume">Resumé</a>
                     </li>
                     <li>
-                        <a href="home-winery.html">Winery</a>
+                        <a href="/winery">Winery</a>
                     </li>
                     <li>
                         <span class="title">Home Pages</span>
                     </li>
                     <li>
-                        <a href="index.html">Home Classic</a>
+                        <a href="/">Home Classic</a>
                     </li>
                     <li>
-                        <a href="home-default-2.html">Home Layout 2</a>
+                        <a href="/default-2">Home Layout 2</a>
                     </li>
                     <li>
-                        <a href="home-default-3.html">Home Layout 3</a>
+                        <a href="/default-3">Home Layout 3</a>
                     </li>
                     <li>
-                        <a href="home-default-4.html">Home Layout 4</a>
+                        <a href="/default-4">Home Layout 4</a>
                     </li>
                     <li>
-                        <a href="home-default-5.html">Home Layout 5</a>
+                        <a href="/default-5">Home Layout 5</a>
                     </li>
                 </ul>
             </li>
@@ -101,31 +129,31 @@
                         <span class="title">Inner Pages</span>
                     </li>
                     <li>
-                        <a href="page-about-us-1.html">About Us 1</a>
+                        <a href="/about-us-1">About Us 1</a>
                     </li>
                     <li>
-                        <a href="page-about-us-2.html">About Us 2</a>
+                        <a href="/about-us-2">About Us 2</a>
                     </li>
                     <li>
-                        <a href="page-about-us-3.html">About Us 3</a>
+                        <a href="/about-us-3">About Us 3</a>
                     </li>
                     <li>
-                        <a href="page-services-1.html">Services 1</a>
+                        <a href="/services-1">Services 1</a>
                     </li>
                     <li>
-                        <a href="page-services-2.html">Services 2</a>
+                        <a href="/services-2">Services 2</a>
                     </li>
                     <li>
-                        <a href="page-services-3.html">Services 3</a>
+                        <a href="/services-3">Services 3</a>
                     </li>
                     <li>
-                        <a href="page-contact-1.html">Contact 1</a>
+                        <a href="/contact-1">Contact 1</a>
                     </li>
                     <li>
-                        <a href="page-contact-2.html">Contact 2</a>
+                        <a href="/contact-2">Contact 2</a>
                     </li>
                     <li>
-                        <a href="page-contact-3.html">Planner</a>
+                        <a href="/contact-3">Planner</a>
                     </li>
                 </ul>
             </li>
@@ -135,28 +163,28 @@
                         <span class="title">Utility Pages</span>
                     </li>
                     <li>
-                        <a href="page-login.html">Login</a>
+                        <a href="/page-login">Login</a>
                     </li>
                     <li>
-                        <a href="page-register.html">Register</a>
+                        <a href="/page-register">Register</a>
                     </li>
                     <li>
-                        <a href="page-coming-soon.html">Coming Soon</a>
+                        <a href="/page-coming-soon">Coming Soon</a>
                     </li>
                     <li>
-                        <a href="page-faq.html">FAQ</a>
+                        <a href="/page-faq">FAQ</a>
                     </li>
                     <li>
-                        <a href="page-confirmation.html">Confirmation</a>
+                        <a href="/page-confirmation">Confirmation</a>
                     </li>
                     <li>
-                        <a href="page-countdown.html">Countdown</a>
+                        <a href="/page-countdown">Countdown</a>
                     </li>
                     <li>
-                        <a href="page-countdown-2.html">Countdown 2</a>
+                        <a href="/page-countdown-2">Countdown 2</a>
                     </li>
                     <li>
-                        <a href="page-404.html">404 - Error</a>
+                        <a href="/page-404">404 - Error</a>
                     </li>
                 </ul>
             </li>

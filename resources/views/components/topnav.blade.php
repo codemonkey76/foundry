@@ -1,9 +1,9 @@
 <div class="nav-container">
     <a id="top"></a>
-    <nav class="bg-dark">
+    <nav {{ $attributes }}>
         <div class="nav-bar">
             <div class="module left">
-                <a href="index.html">
+                <a href="/">
                     <img class="logo logo-light" alt="Foundry" src="img/logo-light.png" />
                     <img class="logo logo-dark" alt="Foundry" src="img/logo-dark.png" />
                 </a>
@@ -13,7 +13,7 @@
             </div>
             <div class="module-group right">
                 <div class="module left">
-                    <x-concepts.megamenu />
+                    <x-megamenu />
                 </div>
                 <!--end of menu module-->
                 <x-concepts.searchmenu />
