@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/css-links.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/book-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/heading-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/image-video-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/quote-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/social-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/subscribe.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/travel1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/travel2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/travel3.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/template/home-adventure.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/template/home-adventure.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/megamenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/topnav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/topnav.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/concepts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/concepts.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/adventure-travel.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/adventure-travel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/adventure-travel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/book-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/book-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/heading-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/heading-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/image-video-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/image-video-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/quote-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/quote-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/social-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/social-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/subscribe.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/subscribe.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/travel1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel1.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/travel2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/travel3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel3.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +143,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/components/adventure-travel" />
       <recent name="$PROJECT_DIR$/resources/views/components" />
       <recent name="$PROJECT_DIR$/resources/views/components/concepts" />
     </key>
@@ -185,7 +179,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="6260000" />
+      <workItem from="1583892911476" duration="6565000" />
     </task>
     <servers />
   </component>

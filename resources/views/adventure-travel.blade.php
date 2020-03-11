@@ -11,16 +11,15 @@
 <body class="scroll-assist">
 <x-topnav class="absolute transparent"/>
 <div class="main-container">
-    <x-image-video-section/>
-    <x-quote-section/>
-    <x-social-section/>
-    <x-heading-section/>
-
-    <x-travel1/>
-    <x-travel2/>
-    <x-travel3/>
-    <x-book-section/>
-    <x-subscribe/>
+    <x-adventure-travel.image-video-section/>
+    <x-adventure-travel.quote-section/>
+    <x-adventure-travel.social-section/>
+    <x-adventure-travel.heading-section/>
+    <x-adventure-travel.travel1/>
+    <x-adventure-travel.travel2/>
+    <x-adventure-travel.travel3/>
+    <x-adventure-travel.book-section/>
+    <x-adventure-travel.subscribe/>
     <x-footer/>
 </div>
 <x-js-links/>
