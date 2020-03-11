@@ -1,8 +1,8 @@
 <a id="contact"></a>
 <section class="pt120 pb120 image-bg">
     <div class="map-canvas" data-map-zoom="6" data-address="lucia,californio[nomarker];san francisco;los angeles"
-         data-maps-api-key="AIzaSyCfo_V3gmpPm1WzJEC9p_sRbgvyVbiO83M"
-         data-maps-api-key-2="AIzaSyAVsRr4i3ovR45biSx0DoWRswL1kfdO9ZU"></div>
+         data-maps-api-key="AIzaSyDeSCIspq47c9ZULitf5UCLmLjLDP9Eqcg"
+         data-maps-api-key-2="AIzaSyDeSCIspq47c9ZULitf5UCLmLjLDP9Eqcg"></div>
     <div class="container">
         <div class="row">
             <div class="col-sm-6 overflow-hidden">
