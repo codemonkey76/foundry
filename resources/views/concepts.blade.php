@@ -8,20 +8,20 @@
     <x-concepts.css-links/>
 </head>
 <body class="scroll-assist">
-<x-topnav/>
+<x-concepts.topnav/>
 <div class="main-container">
-    <x-slides/>
-    <x-section1/>
-    <x-section2/>
-    <x-section3/>
-    <x-testimonials/>
-    <x-tabbed-section/>
-    <x-video-section/>
-    <x-tiled-section/>
-    <x-section4/>
-    <x-footer/>
+    <x-concepts.slides/>
+    <x-concepts.section1/>
+    <x-concepts.section2/>
+    <x-concepts.section3/>
+    <x-concepts.testimonials/>
+    <x-concepts.tabbed-section/>
+    <x-concepts.video-section/>
+    <x-concepts.tiled-section/>
+    <x-concepts.section4/>
+    <x-concepts.footer/>
 </div>
-<x-modal/>
-<x-js-links/>
+<x-concepts.modal/>
+<x-concepts.js-links/>
 </body>
 </html>
