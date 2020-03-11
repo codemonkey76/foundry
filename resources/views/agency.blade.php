@@ -14,7 +14,7 @@
     <link href="css/font-poppins.css" rel="stylesheet" type="text/css">
 </head>
 <body class="scroll-assist">
-<x-topnav class="absolute transparent"/>
+<x-agency.topnav/>
 <div class="main-container">
     <x-agency.image-section/>
     <x-agency.about-section/>
