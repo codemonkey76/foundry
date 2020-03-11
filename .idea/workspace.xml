@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/adventure-travel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/adventure-travel.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/book-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/book-section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/heading-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/heading-section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/image-video-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/image-video-section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/quote-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/quote-section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/social-section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/social-section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/subscribe.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/subscribe.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/travel1.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel1.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/travel2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel2.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/travel3.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/adventure-travel/travel3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/agency.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/about-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/client-list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/clients.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/image-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/section1.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/section2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/agency/work-section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/template/home-agency.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/template/home-agency.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="6565000" />
+      <workItem from="1583892911476" duration="7424000" />
     </task>
     <servers />
   </component>
@@ -191,9 +195,9 @@
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
     <state x="480" y="175" key="SettingsEditor/0.23.1920.1097@0.23.1920.1097" timestamp="1583895478820" />
-    <state x="731" y="444" width="670" height="676" key="search.everywhere.popup" timestamp="1583897565421">
+    <state x="731" y="444" width="670" height="676" key="search.everywhere.popup" timestamp="1583900457380">
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
-    <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583897565421" />
+    <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583900457380" />
   </component>
 </project>
