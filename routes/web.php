@@ -11,4 +11,8 @@ Route::view('/app-landing-2', 'app-landing-2');
 Route::view('/capital-firm', 'capital-firm');
 Route::view('/fashion', 'fashion');
 Route::view('/fitness', 'fitness');
+Route::view('/restaurant', 'restaurant');
+Route::view('/music', 'music');
+Route::view('/events', 'events');
+Route::view('/architecture', 'architecture');
 

@@ -71,16 +71,32 @@
                         @endif
                     </li>
                     <li>
-                        <a href="/restaurant">Restaurant</a>
+                        @if (Request::path()=='restaurant')
+                            <span class="title">Restaurant</span>
+                        @else
+                            <a href="/restaurant">Restaurant</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/music">Music</a>
+                        @if (Request::path()=='music')
+                            <span class="title">Music</span>
+                        @else
+                            <a href="/music">Music</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/event">Event / Seminar</a>
+                        @if (Request::path()=='events')
+                            <span class="title">Event / Seminar</span>
+                        @else
+                            <a href="/events">Event / Seminar</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/architecture">Architecture</a>
+                        @if (Request::path()=='architecture')
+                            <span class="title">Architecture</span>
+                        @else
+                            <a href="/architecture">Architecture</a>
+                        @endif
                     </li>
                 </ul>
             </li>

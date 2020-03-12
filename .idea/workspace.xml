@@ -2,32 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/address-bar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/button-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/modal.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/picture-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/product-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/subscribe-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/tile-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/tile-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/title-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/title-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/modal.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/schedule.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section3.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section4.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/fashion.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/fitness.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/architecture.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/banner.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/gallery.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/info-section2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/info.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/architecture/tabs-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/banner.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/grid-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/image-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/instagram-feed.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/list-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/promo.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/purchase.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/tab-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/topmenu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/events/twitter-feed.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/footer-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/image-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/instagram.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/see-us-hear-us.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/music/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/book-table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/book.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/image-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/instagram.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/menu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/testimonials.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/restaurant/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/events.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/music.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/restaurant.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/languagemenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/languagemenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/searchmenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/searchmenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/shoppingcart.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/shoppingcart.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/topnav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/topnav.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +205,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="14804000" />
+      <workItem from="1583892911476" duration="18373000" />
     </task>
     <servers />
   </component>
@@ -212,10 +221,12 @@
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.1097@0.23.1920.1097" timestamp="1583902941827" />
-    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup" timestamp="1583977633755">
-      <screen x="0" y="23" width="1920" height="1105" />
+    <state x="731" y="445" width="670" height="679" key="search.everywhere.popup" timestamp="1583985482208">
+      <screen x="0" y="23" width="1920" height="1101" />
     </state>
     <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583906748583" />
-    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1583977633755" />
+    <state x="731" y="445" width="670" height="679" key="search.everywhere.popup/0.23.1920.1101@0.23.1920.1101" timestamp="1583985482208" />
+    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup/0.23.1920.1103@0.23.1920.1103" timestamp="1583983949996" />
+    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1583979499832" />
   </component>
 </project>
