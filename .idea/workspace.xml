@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/capital-firm.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/about-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/intro-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/picture-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/picture-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/portfolio.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/capital/staff.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/address-bar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/button-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/picture-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/product-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/subscribe-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/tile-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/tile-section2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/title-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fashion/title-section2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/modal.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/schedule.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section1.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/fitness/section4.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/fashion.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/fitness.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/agency-2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/agency-2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/languagemenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/languagemenu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/searchmenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/searchmenu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/concepts/shoppingcart.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/shoppingcart.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/topnav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/topnav.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,8 +160,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/components/adventure-travel" />
       <recent name="$PROJECT_DIR$/resources/views/components" />
+      <recent name="$PROJECT_DIR$/resources/views/components/adventure-travel" />
       <recent name="$PROJECT_DIR$/resources/views/components/concepts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -179,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="12143000" />
+      <workItem from="1583892911476" duration="14804000" />
     </task>
     <servers />
   </component>
@@ -195,9 +212,10 @@
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.1097@0.23.1920.1097" timestamp="1583902941827" />
-    <state x="731" y="444" width="670" height="676" key="search.everywhere.popup" timestamp="1583906748583">
-      <screen x="0" y="23" width="1920" height="1097" />
+    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup" timestamp="1583977633755">
+      <screen x="0" y="23" width="1920" height="1105" />
     </state>
     <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583906748583" />
+    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1583977633755" />
   </component>
 </project>

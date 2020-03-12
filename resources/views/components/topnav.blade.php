@@ -16,12 +16,9 @@
                     <x-megamenu />
                 </div>
                 <!--end of menu module-->
-                <x-concepts.searchmenu />
-
-                <x-concepts.shoppingcart />
-
-                <x-concepts.languagemenu />
-
+                <x-searchmenu />
+                <x-shoppingcart />
+                <x-languagemenu />
             </div>
             <!--end of module group-->
         </div>

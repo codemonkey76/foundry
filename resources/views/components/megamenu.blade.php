@@ -57,10 +57,18 @@
                         @endif
                     </li>
                     <li>
-                        <a href="/fashion">Fashion</a>
+                        @if (Request::path()==='fashion')
+                            <span class="title">Fashion</span>
+                        @else
+                            <a href="/fashion">Fashion</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/fitness">Fitness</a>
+                        @if (Request::path()==='fitness')
+                            <span class="title">Fitness</span>
+                        @else
+                            <a href="/fitness">Fitness</a>
+                        @endif
                     </li>
                     <li>
                         <a href="/restaurant">Restaurant</a>
