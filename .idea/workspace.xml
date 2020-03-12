@@ -2,45 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/features-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/features-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/image-text-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/image-text-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/posts-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/promo-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/subscribe-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/subscribe-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/tab-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/testimonials-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/text-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/text-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/tile-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/default/video-section1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/contact.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/education.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/employment.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/expertise.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/resume/intro.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/awards.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/image-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/image-section2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/intro.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/products.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/quote.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/winery/signup.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/default-2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/default-3.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/default-4.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/default-5.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/resume.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/winery.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/features-section3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/image-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/intro.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/text-and-grid.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/text-section3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/default/tile-section2.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/events/topmenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/topmenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/events.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/events.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/portfolio.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/portfolio.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/default/subscribe-section2.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/default/subscribe-section2.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/default-4.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/default-4.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="22725000" />
+      <workItem from="1583892911476" duration="23544000" />
     </task>
     <servers />
   </component>
@@ -228,12 +198,12 @@
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.1097@0.23.1920.1097" timestamp="1583902941827" />
-    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup" timestamp="1583994772700">
-      <screen x="0" y="23" width="1920" height="1103" />
+    <state x="731" y="445" width="670" height="679" key="search.everywhere.popup" timestamp="1584050846029">
+      <screen x="0" y="23" width="1920" height="1101" />
     </state>
     <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583906748583" />
-    <state x="731" y="445" width="670" height="679" key="search.everywhere.popup/0.23.1920.1101@0.23.1920.1101" timestamp="1583985482208" />
-    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup/0.23.1920.1103@0.23.1920.1103" timestamp="1583994772700" />
+    <state x="731" y="445" width="670" height="679" key="search.everywhere.popup/0.23.1920.1101@0.23.1920.1101" timestamp="1584050846029" />
+    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup/0.23.1920.1103@0.23.1920.1103" timestamp="1584050486294" />
     <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1583979499832" />
   </component>
 </project>
