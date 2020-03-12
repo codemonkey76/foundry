@@ -131,10 +131,18 @@
                         @endif
                     </li>
                     <li>
-                        <a href="/resume">Resumé</a>
+                        @if (Request::path()==='resume')
+                            <span class="title">Resumé</span>
+                        @else
+                            <a href="/resume">Resumé</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/winery">Winery</a>
+                        @if (Request::path()==='winery')
+                            <span class="title">Winery</span>
+                        @else
+                            <a href="/winery">Winery</a>
+                        @endif
                     </li>
                     <li>
                         <span class="title">Home Pages</span>

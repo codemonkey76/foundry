@@ -10,8 +10,13 @@
 <body class="scroll-assist">
 <x-topmenu />
 <div class="main-container">
-    <x-portfolio.case1 />
-    <x-portfolio.case2 />
+    <x-default.subscribe-section2 />
+    <x-default.features-section2 />
+    <x-default.image-text-section1 />
+    <x-default.text-section2 />
+    <x-default.image-text-section2 />
+    <x-default.testimonials-section1 />
+    <x-default.promo-section1 />
     <x-footer />
 </div>
 <x-js-links />

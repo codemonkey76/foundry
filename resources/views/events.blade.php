@@ -10,7 +10,7 @@
         rel='stylesheet' type='text/css'>
 </head>
 <body class="scroll-assist">
-<x-events.topmenu/>
+<x-topmenu/>
 <div class="main-container">
     <x-events.banner/>
     <x-events.list-section/>

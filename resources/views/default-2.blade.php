@@ -8,10 +8,16 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
 </head>
 <body class="scroll-assist">
-<x-topmenu />
+<x-topnav />
 <div class="main-container">
-    <x-portfolio.case1 />
-    <x-portfolio.case2 />
+    <x-default.video-section1 />
+    <x-default.text-section1 />
+    <x-default.tile-section1 />
+    <x-default.features-section1 />
+    <x-default.subscribe-section1 />
+    <x-default.tab-section1 />
+    <x-default.posts-section1 />
+    <x-default.promo-section1 />
     <x-footer />
 </div>
 <x-js-links />
