@@ -103,10 +103,18 @@
             <li>
                 <ul>
                     <li>
-                        <a href="/photography">Photography</a>
+                        @if (Request::path()==='photography')
+                            <span class="title">Photography</span>
+                        @else
+                            <a href="/photography">Photography</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/photography-2">Ken Burns</a>
+                        @if (Request::path()==='photography-2')
+                            <span class="title">Ken Burns</span>
+                        @else
+                            <a href="/photography-2">Ken Burns</a>
+                        @endif
                     </li>
                     <li>
                         <a href="/portfolio">Portfolio</a>
