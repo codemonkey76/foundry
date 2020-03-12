@@ -117,10 +117,18 @@
                         @endif
                     </li>
                     <li>
-                        <a href="/portfolio">Portfolio</a>
+                        @if (Request::path()==='portfolio')
+                            <span class="title">Portfolio</span>
+                        @else
+                            <a href="/portfolio">Portfolio</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/property">Property Listing</a>
+                        @if (Request::path()==='property')
+                            <span class="title">Property Listing</span>
+                        @else
+                            <a href="/property">Property Listing</a>
+                        @endif
                     </li>
                     <li>
                         <a href="/resume">Resumé</a>

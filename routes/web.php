@@ -18,3 +18,4 @@ Route::view('/architecture', 'architecture');
 Route::view('/photography', 'photography');
 Route::view('/photography-2', 'photography-2');
 Route::view('/portfolio', 'portfolio');
+Route::view('/property', 'property');
