@@ -25,3 +25,6 @@ Route::view('/default-2', 'default-2');
 Route::view('/default-3', 'default-3');
 Route::view('/default-4', 'default-4');
 Route::view('/default-5', 'default-5');
+Route::view('/about-us-1', 'pages.about-us-1');
+Route::view('/about-us-2', 'pages.about-us-2');
+Route::view('/about-us-3', 'pages.about-us-3');
