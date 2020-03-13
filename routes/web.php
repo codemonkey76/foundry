@@ -31,3 +31,5 @@ Route::view('/about-us-3', 'pages.about-us-3');
 Route::view('/services-1', 'pages.services-1');
 Route::view('/services-2', 'pages.services-2');
 Route::view('/services-3', 'pages.services-3');
+Route::view('/contact-1', 'pages.contact-1');
+Route::view('/contact-2', 'pages.contact-2');
