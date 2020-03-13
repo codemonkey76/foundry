@@ -148,19 +148,39 @@
                         <span class="title">Home Pages</span>
                     </li>
                     <li>
-                        <a href="/">Home Classic</a>
+                        @if (Request::path()==='/')
+                            <span class="title">Home Classic</span>
+                        @else
+                            <a href="/">Home Classic</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/default-2">Home Layout 2</a>
+                        @if (Request::path()==='default-2')
+                            <span class="title">Home Layout 2</span>
+                        @else
+                            <a href="/default-2">Home Layout 2</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/default-3">Home Layout 3</a>
+                        @if (Request::path()==='default-3')
+                            <span class="title">Home Layout 3</span>
+                        @else
+                            <a href="/default-3">Home Layout 3</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/default-4">Home Layout 4</a>
+                        @if (Request::path()==='default-4')
+                            <span class="title">Home Layout 4</span>
+                        @else
+                            <a href="/default-4">Home Layout 4</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/default-5">Home Layout 5</a>
+                        @if (Request::path()==='default-5')
+                            <span class="title">Home Layout 5</span>
+                        @else
+                            <a href="/default-5">Home Layout 5</a>
+                        @endif
                     </li>
                 </ul>
             </li>
@@ -177,22 +197,46 @@
                         <span class="title">Inner Pages</span>
                     </li>
                     <li>
-                        <a href="/about-us-1">About Us 1</a>
+                        @if (Request::path()==='about-us-1')
+                            <span class="title">About Us 1</span>
+                        @else
+                            <a href="/about-us-1">About Us 1</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/about-us-2">About Us 2</a>
+                        @if (Request::path()==='about-us-2')
+                            <span class="title">About Us 2</span>
+                        @else
+                            <a href="/about-us-2">About Us 2</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/about-us-3">About Us 3</a>
+                        @if (Request::path()==='about-us-3')
+                            <span class="title">About Us 3</span>
+                        @else
+                            <a href="/about-us-3">About Us 3</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/services-1">Services 1</a>
+                        @if (Request::path()==='services-1')
+                            <span class="title">Services 1</span>
+                        @else
+                            <a href="/services-1">Services 1</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/services-2">Services 2</a>
+                        @if (Request::path()==='services-2')
+                            <span class="title">Services 2</span>
+                        @else
+                            <a href="/services-2">Services 2</a>
+                        @endif
                     </li>
                     <li>
-                        <a href="/services-3">Services 3</a>
+                        @if (Request::path()==='services-3')
+                            <span class="title">Services 3</span>
+                        @else
+                            <a href="/services-3">Services 3</a>
+                        @endif
                     </li>
                     <li>
                         <a href="/contact-1">Contact 1</a>

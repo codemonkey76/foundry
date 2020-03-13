@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb61540-2500-41b8-bfb5-026e6e727d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/banner.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/banner2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/banner3.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/call-to-action.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/collaborators.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/services.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/staff.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/staff2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/tab-section.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/about/testimonials.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/about-us-1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/about-us-2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/about-us-3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/banner1.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/banner2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/banner3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/create-something.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/grid.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/grid2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/text-and-image.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/text-and-image2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/text-and-image3.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/text.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/components/services/tile-section.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/errors/404.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/services-1.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/services-2.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/services-3.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/megamenu.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583892910237</updated>
-      <workItem from="1583892911476" duration="25631000" />
+      <workItem from="1583892911476" duration="27642000" />
     </task>
     <servers />
   </component>
@@ -204,12 +207,12 @@
       <screen x="0" y="23" width="1920" height="1097" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.1097@0.23.1920.1097" timestamp="1583902941827" />
-    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup" timestamp="1584056212201">
-      <screen x="0" y="23" width="1920" height="1105" />
+    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup" timestamp="1584058100870">
+      <screen x="0" y="23" width="1920" height="1103" />
     </state>
     <state x="731" y="444" width="670" height="676" key="search.everywhere.popup/0.23.1920.1097@0.23.1920.1097" timestamp="1583906748583" />
     <state x="731" y="445" width="670" height="679" key="search.everywhere.popup/0.23.1920.1101@0.23.1920.1101" timestamp="1584053052016" />
-    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup/0.23.1920.1103@0.23.1920.1103" timestamp="1584055737254" />
-    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1584056212201" />
+    <state x="731" y="446" width="670" height="680" key="search.everywhere.popup/0.23.1920.1103@0.23.1920.1103" timestamp="1584058100870" />
+    <state x="731" y="447" width="670" height="681" key="search.everywhere.popup/0.23.1920.1105@0.23.1920.1105" timestamp="1584056739615" />
   </component>
 </project>
